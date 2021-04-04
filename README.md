@@ -27,7 +27,3 @@ https://docs.google.com/spreadsheets/d/1FDCe52ZZtJDAy4sWTWL88peJdX5cNISkrauFRF10
 - フレームワーク：Ruby on Rails
 - JSライブラリ：jQuery
 - IDE：Cloud9
-
-## 使用素材
-- 外部サービスの画像素材・音声素材を使用した場合は、必ずサービス名とURLを明記してください。
-- 使用しない場合は、使用素材の項目をREADMEから削除してください。
