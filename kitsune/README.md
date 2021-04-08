@@ -1,4 +1,4 @@
-# Kitune's Information room
+# Kitsune's Information room
 
 ## サイト概要
 ゲームをメインとした情報のやりとりとなる場で、
